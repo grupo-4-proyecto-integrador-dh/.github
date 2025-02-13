@@ -12,7 +12,7 @@
 
 ### Links de utilidad 📎
 
-  - [Trello](https://trello.com/b/oxJBfqh0/c204)
+  - [Trello](https://trello.com/b/yD074yUF/c204)
   - [Figma](https://www.figma.com/design/MjYdK5mlECKKPcoh28JgH1/Huellitas-DH?node-id=0-1&t=phjP0hvpSYSQE8vQ-1 )
 
 
